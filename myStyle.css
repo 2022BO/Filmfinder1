@@ -1,0 +1,10 @@
+#ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    background-color: rgb(234, 88, 21);
+    padding: 10px;
+  }
+h1 {
+    color: rgb(192, 22, 22);
+}
